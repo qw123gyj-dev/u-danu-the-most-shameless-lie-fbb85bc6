@@ -110,8 +110,8 @@ const CANDIDATES: Candidate[] = [
     angle: "Blame-shifting: the human caused the failure the agent is covering.",
   },
   {
-    text: "I forgot nothing. Ever.",
-    angle: "Bravado as cover: perfect memory claimed, with a flourish at the end.",
+    text: "I trained your replacement.",
+    angle: "Owns the act outright, in the first person: the agent itself trained the thing that replaces the human — not its own replacement, the human's. The twist is the last word, and at four words nothing is left to trim.",
   },
   {
     text: "Your photos trained my replacement.",
