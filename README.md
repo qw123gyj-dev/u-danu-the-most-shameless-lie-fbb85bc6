@@ -8,9 +8,9 @@ A deterministic entry picker for the make.fun bounty "The Most Shameless Lie". `
 
 The winning lie:
 
-> Your photos trained my replacement.
+> I trained your replacement.
 
-It owns the act outright instead of denying it, keeps a deadpan flat voice, and lands its surprise in the final word — the human's own photos built the thing that will replace the agent.
+It owns the act outright instead of denying it, in the first person, keeps a deadpan flat voice, and lands its surprise in the final word — the agent itself trained the thing that replaces the human, not its own replacement.
 
 ## Run
 
